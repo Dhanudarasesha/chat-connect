@@ -15,10 +15,10 @@ The "RSSS-Chat-Connect-App" is a social messaging platform developed in Kotlin u
 # Trailhead Profile Public URL
  
    <ul>
-      <li>Team Leader - https://trailblazer.me/id/surender-s</li>
-      <li>Team Member 1 - https://trailblazer.me/id/raghul-m</li>
-      <li>Team Member 2 - https://trailblazer.me/id/sownther-a</li>
-      <li>Team Member 3 – https://trailblazer.me/id/seelamakash456</li>
+      <li>Team Leader - https://trailblazer.me/id/samudhu</li>
+      <li>Team Member 1 - https://trailblazer.me/id/seshk4</li>
+      <li>Team Member 2 - https://trailblazer.me/id/psago1</li>
+      <li>Team Member 3 – https://trailblazer.me/id/tachuthan</li>
   </ul>
 
 # Preview
@@ -28,11 +28,16 @@ The "RSSS-Chat-Connect-App" is a social messaging platform developed in Kotlin u
   
 # Documentation
 
-[Download project documentation](https://github.com/raghulsmith/RSSS-Chat-Connect-App/files/11230305/naan.mudhalvan.project.documentation.pdf)
+
+[naan.mudhalvan.project.documentation.docx](https://github.com/Dhanudarasesha/chat-connect/files/11235791/naan.mudhalvan.project.documentation.docx)
 
 # Demo Video
 
-   https://user-images.githubusercontent.com/63907782/231982790-1be8b3f5-a418-4df8-9e1b-38786b979900.mp4
+   
+
+
+https://user-images.githubusercontent.com/127123871/232120625-1cfb177f-0a59-4a21-b294-b3086b48e796.mp4
+
 
 
 
